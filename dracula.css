@@ -6,6 +6,8 @@ html {
 h1{
     font-size: 200px;
     color: black;
+    text-align: center;
+
 }
 h2{
     font-size: 150%;
@@ -13,4 +15,12 @@ h2{
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'David Libre', serif;
+}
+
+h4{
+    text-indent: 50px;
+}
+
+.centered-text{
+    text-align: center;
 }
